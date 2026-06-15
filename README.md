@@ -1,2 +1,2 @@
-# juego-7
+index.html
 juego para aprender biomecanico
